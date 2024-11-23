@@ -1,0 +1,10 @@
+div img{
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+}
+aside div{
+    display: flex;
+    border: 1px solid black;
+    justify-content: right;
+}
